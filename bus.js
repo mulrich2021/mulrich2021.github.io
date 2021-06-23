@@ -40,8 +40,3 @@ const busStops = [
     }, 1000);
   }
   
-  // Do not edit code past this point
-  if (typeof module !== 'undefined') {
-    module.exports = { move };
-  }
-  
